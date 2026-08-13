@@ -205,18 +205,3 @@ All screenshots are stored in [`screenshots/`](file:///c:/Users/azhan/OneDrive/D
 
 ---
 
-## 📝 Submission Files Checklist
-
-- [x] **Master Word Document (`.docx`):** [`reports/API-Testing-Assignment-4-Report.docx`](file:///c:/Users/azhan/OneDrive/Desktop/Api_Testing/reports/API-Testing-Assignment-4-Report.docx)
-- [x] **Postman Collection:** [`postman/JSONPlaceholder_API_Testing.postman_collection.json`](file:///c:/Users/azhan/OneDrive/Desktop/Api_Testing/postman/JSONPlaceholder_API_Testing.postman_collection.json)
-- [x] **Postman Environment:** [`postman/JSONPlaceholder_Environment.postman_environment.json`](file:///c:/Users/azhan/OneDrive/Desktop/Api_Testing/postman/JSONPlaceholder_Environment.postman_environment.json)
-- [x] **Postman Word Report (`.docx`):** [`reports/Postman_API_Testing_Report.docx`](file:///c:/Users/azhan/OneDrive/Desktop/Api_Testing/reports/Postman_API_Testing_Report.docx)
-- [x] **JMeter Test Plan (`.jmx`):** [`jmeter/JSONPlaceholder_Load_Test.jmx`](file:///c:/Users/azhan/OneDrive/Desktop/Api_Testing/jmeter/JSONPlaceholder_Load_Test.jmx)
-- [x] **JMeter Word Report (`.docx`):** [`reports/JMeter_Performance_Testing_Report.docx`](file:///c:/Users/azhan/OneDrive/Desktop/Api_Testing/reports/JMeter_Performance_Testing_Report.docx)
-- [x] **JMeter Test Results (`.jtl` logs):** [`jmeter/results/summary_report.jtl`](file:///c:/Users/azhan/OneDrive/Desktop/Api_Testing/jmeter/results/summary_report.jtl)
-- [x] **Functional QA Report (Markdown):** [`reports/API_Functional_Test_Report.md`](file:///c:/Users/azhan/OneDrive/Desktop/Api_Testing/reports/API_Functional_Test_Report.md)
-- [x] **Postman Evidence Report (Markdown):** [`reports/Postman_Test_Execution_Evidence.md`](file:///c:/Users/azhan/OneDrive/Desktop/Api_Testing/reports/Postman_Test_Execution_Evidence.md)
-- [x] **Performance QA Report (Markdown):** [`reports/JMeter_Performance_Report.md`](file:///c:/Users/azhan/OneDrive/Desktop/Api_Testing/reports/JMeter_Performance_Report.md)
-- [x] **Screenshots Evidence:** All 16 named screenshots saved in [`screenshots/`](file:///c:/Users/azhan/OneDrive/Desktop/Api_Testing/screenshots/)
-- [x] **Master README:** [`README.md`](file:///c:/Users/azhan/OneDrive/Desktop/Api_Testing/README.md)
-
