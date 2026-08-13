@@ -1,0 +1,5 @@
+# Ignore temporary logs and tool binaries
+apache-jmeter-*/
+*.log
+*.tmp
+~*
